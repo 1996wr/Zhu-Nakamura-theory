@@ -4,7 +4,7 @@
 # eg: change keyword in the GAUSSIAN input file : renew_calc_states()
 # eg: replace_coordinate()
 # eg: print_traj_cicoe()
-# Author: zibo wu <zbwu1996@gmail.com>
+# Author: RuiWang
 
 import re
 import sys
